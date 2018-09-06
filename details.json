@@ -1,0 +1,8 @@
+{
+ 	"name" : "nhs-api",
+ 	"version" : "2.0",
+ 	"download_url" : "http://buynice.org/wp-content/uploads/2018/09/nhs-api1.zip",
+ 	"sections" : {
+ 		"description" : "Plugin description here. You can use HTML."
+ 	}
+ }
