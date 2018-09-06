@@ -216,4 +216,11 @@ function article_page_template( $page_template )
     }
     return $page_template;
 }
+
+require 'plugin-update-checker/plugin-update-checker.php';
+$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+		'http://buynice.org/details.json',
+		__FILE__, //Full path to the main plugin file or functions.php.
+		'nhs-api'
+		);
 ?>

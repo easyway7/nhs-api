@@ -158,7 +158,7 @@ function start($arr_main_array,$k){
          if((substr(strtolower($value->name), 0, 2) === $k) ){
               $url = $value->url;
               $name = $value->name;
-              $q = str_replace("https://api.nhs.uk/conditions/","",$url);
+              $q = str_replace("https://www.nhs.uk/conditions/","",$url);
               $baseUrl = ARTICLE_URL .'?article='.$q;
              $arr_result[] = "<li><a href='".$baseUrl."'>".$name."</a></li>";
              if (!in_array($k, $final)){
