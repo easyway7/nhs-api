@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              http://www.ourlocalpharmacy.com/
- * @since             1.0.0
+ * @since             1.5.0
  * @package           Nhs_Api
  *
  * @wordpress-plugin
