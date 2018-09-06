@@ -221,6 +221,6 @@ require 'plugin-update-checker/plugin-update-checker.php';
 $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
 		'https://github.com/easyway7/nhs-api',
 		__FILE__,
-		'nhs-api'
+		'NHS-API'
 		);
 ?>
