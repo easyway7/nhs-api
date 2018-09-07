@@ -1,8 +1,9 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+=== NHS-API ===
+Contributors: rohit-gilbile
 Donate link: https://github.com/easyway7
 Tags: comments, spam
-Requires at least: 3.0.1
+Requires at least: 4.0.1
+Requires PHP: 5.6.4
 Tested up to: 4.9
 Stable tag: 4.3
 License: GPLv2 or later
@@ -45,7 +46,7 @@ e.g.
 
 1. Upload `nhs-api.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+
 
 == Frequently Asked Questions ==
 
