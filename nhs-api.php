@@ -16,7 +16,7 @@
  * Plugin Name:       NHS-API
  * Plugin URI:        https://www.thepharmacywebsitecompany.co.uk
  * Description:       NHS Conditions and Treatments API feed.
- * Version:           1.0.0
+ * Version:           2.0.0
  * Author:            OurLocalPharmacy.com Ltd
  * Author URI:        http://www.ourlocalpharmacy.com
  * License:           GPL-2.0+
