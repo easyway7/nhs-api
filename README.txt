@@ -1,8 +1,8 @@
 === NHS-API ===
 Contributors: rohit-gilbile
+Tags: nhs,nhs-api
 Donate link: https://github.com/easyway7
-Tags: comments, spam
-Requires at least: 4.0.1
+Requires at least: 4.7
 Requires PHP: 5.6.4
 Tested up to: 4.9
 Stable tag: 4.3
@@ -13,58 +13,30 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+This free plugin provide the NHS Syndicated content
 
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
-
-A few notes about the sections above:
-
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
-*   "Requires at least" is the lowest version that the plugin will work on
-*   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
-higher versions... this is just the highest one you've verified.
-*   Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for
-stable.
-
-    Note that the `readme.txt` of the stable tag is the one that is considered the defining one for the plugin, so
-if the `/trunk/readme.txt` file says that the stable tag is `4.3`, then it is `/tags/4.3/readme.txt` that'll be used
-for displaying information about the plugin.  In this situation, the only thing considered from the trunk `readme.txt`
-is the stable tag pointer.  Thus, if you develop in trunk, you can update the trunk `readme.txt` to reflect changes in
-your in-development version, without having that information incorrectly disclosed about the current stable version
-that lacks those changes -- as long as the trunk's `readme.txt` points to the correct stable tag.
-
-    If no stable tag is provided, it is assumed that trunk is stable, but you should specify "trunk" if that's where
-you put the stable version, in order to eliminate any doubt.
+To used this plugin you need a key from [NHS Website](https://developer.api.nhs.uk/).
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
+Minimum Requirements
 
-e.g.
-
-1. Upload `nhs-api.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-
+* PHP version 5.2.4 or greater (PHP 7.2 or greater is recommended)
+* MySQL version 5.0 or greater (MySQL 5.6 or greater is recommended)
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= From where I can get NHS API key? =
 
-An answer to that question.
+You can get NHS API key from [Here](https://developer.api.nhs.uk/).
 
-= What about foo bar? =
+= I have API key. Where should I paste? =
 
-Answer to foo bar dilemma.
+In your dashboard please click on NHS Settings paste your key in textbox and click on save changes button.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
+1. NHS API
 
 == Changelog ==
 
