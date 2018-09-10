@@ -39,7 +39,15 @@ In your dashboard please click on NHS Settings paste your key in textbox and cli
 1. NHS API
 
 == Changelog ==
-
+= 2.5 =
+* Stable version release
+= 2.2 = 
+* added screenshots and minor issue fixed
+= 2.1 =
+* New version relase
+= 2.0 =
+* Minor bugs fixing
+* UI chnages
 = 1.8 =
 * UI issues fixed.
 * Minor bugs fixed.
