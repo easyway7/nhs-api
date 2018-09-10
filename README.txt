@@ -34,10 +34,6 @@ You can get NHS API key from [Here](https://developer.api.nhs.uk/).
 
 In your dashboard please click on NHS Settings paste your key in textbox and click on save changes button.
 
-== Screenshots ==
-
-1. NHS API
-
 == Changelog ==
 = 2.5 =
 * Stable version release
