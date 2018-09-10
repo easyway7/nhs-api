@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       NHS-API
  * Plugin URI:        https://www.thepharmacywebsitecompany.co.uk
- * Description:       NHS Conditions and Treatments API feed.
+ * Description:       NHS Conditions and Treatments API feed Wordpress Plugin.
  * Version:           2.0.0
  * Author:            OurLocalPharmacy.com Ltd
  * Author URI:        http://www.ourlocalpharmacy.com
