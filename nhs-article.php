@@ -229,6 +229,7 @@ get_header();
 }
 .static_area{
      position: relative;
+     margin-top:30px;
 } 
 .fixed {
    /* position: fixed;
